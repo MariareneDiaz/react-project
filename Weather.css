@@ -1,0 +1,80 @@
+body {
+  font-family: "Domine", serif;
+  background: #b98ea7;
+}
+#forecast {
+  color: white;
+}
+#date {
+  font-size: 25px;
+  margin-left: 51px;
+}
+#current {
+  margin-left: 10px;
+}
+#fahrenheit-link {
+  margin-top: 300px;
+  color: white;
+  font-size: 25px;
+}
+#celsius-link {
+  margin-top: 200px;
+  color: white;
+  font-size: 30px;
+}
+#tempFirst {
+  margin-left: 350px;
+  font-size: 40px;
+}
+#feels {
+  margin-top: 150px;
+  font-size: 30px;
+}
+#temperature {
+  font-size: 30px;
+}
+.container {
+  color: #000000;
+}
+.col-6 {
+  color: white;
+  border-radius: 2px;
+  opacity: 0.9;
+  background: #a57982;
+
+  margin-bottom: 50px;
+  background-position: center;
+}
+.today strong {
+  font-size: 50px;
+}
+.geneva {
+  font-size: 25px;
+  margin-left: 130px;
+}
+.today {
+  position: relative;
+  font-size: 40px;
+  margin-top: 10px;
+}
+.table {
+  margin-left: 130px;
+  margin-top: 10px;
+  color: white;
+  font-size: 20px;
+}
+.chance {
+  font-size: 30px;
+}
+.time {
+  font-size: 25px;
+}
+.partly {
+  font-size: 25px;
+}
+.temperature {
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  float: right;
+}
